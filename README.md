@@ -7,9 +7,13 @@ Agriculture is an essential component of California’s economy. Six counties (F
 **Solution Description** 
 Our solution is to design a device that can assist urban gardens in analyzing, selecting, organizing and maintaining healthy and productive gardens. The device provides the gardener species identification, to know what plants are in their garden; optimal water, fertilizer and nutrition, to neither starve plants or waste and pollute resources; and companion plants and placement, so plants benefit each other by attracting pollinators, repelling pests, providing shade and beneficial nutrients. The device is based on the multi-camera OAK-D device, with modified cameras to extend the spectral response, and a WiFi connection to a smart phone for a browser-based user interface. 
 
-We call the device the “The Plant Doctor: A Tricorder for the Garden”, named in honor of the science fiction prop designed for Star Trek that performed the functions of sensing, recording and computing. The device is a collection of software modules that performs plant metrics and analysis through a common user interface. This allows modules to be developed simultaneously by the team and enable new modules to be added in the future. To meet the three-month development schedule, each module will be delivered as minimum viable product (MVP), demonstrating the operation of each module and the architecture, communication, and user interface of the system. The software and hardware are open source, so individual models and components can be individually improved and extended. The modules are as follows. 
-	A. **Enhanced Spectral Imaging** Imaging in the IR to predict plant health. 
-	B. **Plant Identification** Identify plants from their leaf. 
-	C. **Neighbor Analysis** Identify plants and relative location in plot to predict and advise on companion planting and optimal spacing. 
-	D. **Environmental Science** Analyze soil chemistry including nitrogen, phosphorus, potassium and pH. 
+We call the device the **“The Plant Doctor: A Tricorder for the Garden”**, named in honor of the science fiction prop designed for Star Trek that performed the functions of sensing, recording and computing. The device is a collection of software modules that performs plant metrics and analysis through a common user interface. This allows modules to be developed simultaneously by the team and enable new modules to be added in the future. To meet the three-month development schedule, each module will be delivered as minimum viable product (MVP), demonstrating the operation of each module and the architecture, communication, and user interface of the system. The software and hardware are open source, so individual models and components can be individually improved and extended. The modules are as follows:
+
+A. **Enhanced Spectral Imaging** Imaging in the IR to predict plant health. 
+
+B. **Plant Identification** Identify plants from their leaves.
+
+C. **Neighbor Analysis** Identify plants and relative location in a plot to predict and advise on companion planting and optimal spacing. 
+
+D. **Environmental Science** Analyze soil chemistry including nitrogen, phosphorus, potassium and pH. 
 
